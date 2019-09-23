@@ -1,6 +1,6 @@
 var cx = [];
 var cy = [];
-var N;
+var N,i;
 
 function setup() {
   createCanvas(800, 600);
