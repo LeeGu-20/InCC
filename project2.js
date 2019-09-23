@@ -23,11 +23,10 @@ function setup() {
 
 //load the image of the application
 function preload() {
-  lg=loadImage("background.png");}
+  lg=loadImage("background2.png");}
 
 
 function draw() {
-  background(220);
   image(lg, 0,0, 800,600);
   changeColors();
 }
